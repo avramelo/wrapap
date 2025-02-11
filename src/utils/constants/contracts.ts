@@ -1,0 +1,1 @@
+export const WETH_ADDRESS = "0x7b79995e5f793A07Bc00c21412e50Ecae098E7f9" as const;
